@@ -23,6 +23,6 @@ FUTURE
 License
 =======
 
-[MIT](http://en.wikipedia.org/wiki/MIT_License) license.
+[MIT](http://en.wikipedia.org/wiki/MIT_License) License.
 
-
+Thanks!!
